@@ -171,7 +171,7 @@ find . -name *.mp3
 
 These will help you save time and make less mistakes when typing:
 
-+ To cancel a command that is being executed, press `Control`+`C`
++ To cancel a command that is being executed, press `Control`+`C`.
 + To autocomplete a file or folder name, use the `tab` key.
 + To repeat any command you have used in the past, use the `up` arrow and it will show you each command, one by one.
 + To go to the home user folder, use the `~` key like this: cd ~
